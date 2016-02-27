@@ -1,2 +1,2 @@
 # Code-Uno
-Le ode de l'Arduino Uno du robot
+Le code de l'Arduino Uno du robot
